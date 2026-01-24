@@ -69,4 +69,6 @@ Você pode me seguir aqui no GitHub e conferir meus repositórios favoritos. Sin
 ## 🔗 Links úteis
 
 - GitHub: https://github.com/RizeBr/
+- Meu Servidor: https://dsc.gg/redearkan/
+- Discord: rizebr
 - Principais projetos fixados no topo do perfil
