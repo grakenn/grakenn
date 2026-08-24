@@ -29,5 +29,5 @@ Além disso, exploro automações, chatbots e integrações com APIs.
 ## Contato
 
 - GitHub: [github.com/grakenn](https://github.com/grakenn/)
-- Discord: `grakenbr`
+- Discord: `grakennn`
 - Servidor: [dsc.gg/redearkan](https://dsc.gg/redearkan/)
