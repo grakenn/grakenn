@@ -6,7 +6,7 @@
 
 ### Systems Developer • Minecraft • AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" />
+<img src="https://cdn.pfps.gg/banners/26870-370731-solo.gif" width="500">
 
 <p>
   Developer interested in <b>Minecraft servers</b>, <b>software development</b>
