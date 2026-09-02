@@ -1,54 +1,85 @@
-# grakenn
+<div align="center">
 
-**Systems Developer** focused on **Minecraft servers, software development, and AI**.
+# Hello I'm grakenn 👋
 
-I work with different types of Minecraft server platforms and technologies, building plugins, systems, tools, and custom solutions. I'm also studying **Systems Development** and exploring **Artificial Intelligence**, automation, and AI-powered applications.
+![Profile Views](https://komarev.com/ghpvc/?username=grakenn&color=blue)
 
-## About
+### Systems Developer • Minecraft • AI
 
-I'm a developer interested in building things across different technologies and platforms.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header" />
 
-My main interests include:
+<p>
+  Developer interested in <b>Minecraft servers</b>, <b>software development</b>
+  and <b>Artificial Intelligence</b>.
+</p>
 
-* 🧩 Minecraft server development
-* 💻 Software and systems development
-* 🤖 Artificial Intelligence and AI integrations
-* ⚙️ Automation and tools
-* 🌐 APIs and backend systems
-* 📚 Continuous learning and experimentation
+<p>
+  🎓 Studying Systems Development<br>
+  ⛏️ Minecraft Server Development<br>
+  🤖 AI & LLMs
+</p>
 
-I don't limit myself to a single language, framework, or Minecraft platform — I like exploring new technologies and finding the best solution for each project.
+<br>
 
-## Currently
+<a href="https://redearkan.com.br">
+  <img src="https://img.shields.io/badge/REDE%20ARKAN-161b22?style=for-the-badge&logo=minecraft&logoColor=white">
+</a>
+<a href="https://github.com/grakenn">
+  <img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-🎓 Studying **Systems Development**
+</div>
 
-🔨 Building and experimenting with **Minecraft servers and custom systems**
+---
 
-🤖 Exploring **Artificial Intelligence, automation, and AI integrations**
+<div align="center">
 
-## Technologies & Interests
+## Experiences
 
-* Minecraft Server Development
-* PocketMine-MP
-* Java
-* PHP
-* JavaScript / TypeScript
-* APIs
-* AI & LLMs
-* Git / GitHub
-* Backend Development
-* Automation
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=grakenn&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grakenn&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Technologies
+
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,html,css,mysql,git,github" />
+
+</div>
+
+---
+
+<div align="center">
 
 ## Projects
 
-| Project           | Description                             |
-| ----------------- | --------------------------------------- |
-| **Rede Arkan**    | Minecraft server network and ecosystem  |
-| **TheEnderchest** | EnderChest system with expanded storage |
+<a href="https://redearkan.com.br">
+  <img src="https://img.shields.io/badge/Rede%20Arkan-Minecraft%20Server-161b22?style=for-the-badge&logo=minecraft&logoColor=white">
+</a>
+
+<a href="https://github.com/grakenn/TheEnderchest">
+  <img src="https://img.shields.io/badge/TheEnderchest-Minecraft%20Plugin-161b22?style=for-the-badge&logo=minecraft&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## Contact
 
-* GitHub: [github.com/grakenn](https://github.com/grakenn/)
-* Discord: `grakennn`
-* Rede Arkan: [dsc.gg/redearkan](https://dsc.gg/redearkan/)
+Discord: **grakennn**
+
+<br>
+
+<a href="https://redearkan.com.br">
+  <img src="https://img.shields.io/badge/redearkan.com.br-161b22?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
