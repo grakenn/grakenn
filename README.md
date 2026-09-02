@@ -34,18 +34,6 @@
 
 <div align="center">
 
-## Experiences
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=grakenn&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grakenn&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Technologies
 
 <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,html,css,mysql,git,github" />
@@ -56,26 +44,9 @@
 
 <div align="center">
 
-## Projects
-
-<a href="https://redearkan.com.br">
-  <img src="https://img.shields.io/badge/Rede%20Arkan-Minecraft%20Server-161b22?style=for-the-badge&logo=minecraft&logoColor=white">
-</a>
-
-<a href="https://github.com/grakenn/TheEnderchest">
-  <img src="https://img.shields.io/badge/TheEnderchest-Minecraft%20Plugin-161b22?style=for-the-badge&logo=minecraft&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## Contact
 
 Discord: **grakennn**
-
 <br>
 
 <a href="https://redearkan.com.br">
