@@ -6,7 +6,7 @@
 
 ### Systems Developer • Minecraft • AI
 
-<img src="https://cdn.pfps.gg/banners/26870-370731-solo.gif" width="500">
+<img src="https://cdn.pfps.gg/banners/26870-370731-solo.gif" width="500" height="150">
 
 <p>
   Developer interested in <b>Minecraft servers</b>, <b>software development</b>
