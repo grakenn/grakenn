@@ -1,32 +1,54 @@
 # grakenn
 
-Developer focused on plugins and tools for **PocketMine-MP** and **PHP** projects. I also work with bots and AI integrations.
+**Systems Developer** focused on **Minecraft servers, software development, and AI**.
+
+I work with different types of Minecraft server platforms and technologies, building plugins, systems, tools, and custom solutions. I'm also studying **Systems Development** and exploring **Artificial Intelligence**, automation, and AI-powered applications.
 
 ## About
 
-I develop plugins and systems for Minecraft servers (PocketMine-MP). Additionally, I explore automations, chatbots, and API integrations.
+I'm a developer interested in building things across different technologies and platforms.
 
-## Stack
+My main interests include:
 
-- Systems Developer
-- PHP
-- PocketMine-MP
-- Bot APIs
-- Git / GitHub
+* 🧩 Minecraft server development
+* 💻 Software and systems development
+* 🤖 Artificial Intelligence and AI integrations
+* ⚙️ Automation and tools
+* 🌐 APIs and backend systems
+* 📚 Continuous learning and experimentation
+
+I don't limit myself to a single language, framework, or Minecraft platform — I like exploring new technologies and finding the best solution for each project.
+
+## Currently
+
+🎓 Studying **Systems Development**
+
+🔨 Building and experimenting with **Minecraft servers and custom systems**
+
+🤖 Exploring **Artificial Intelligence, automation, and AI integrations**
+
+## Technologies & Interests
+
+* Minecraft Server Development
+* PocketMine-MP
+* Java
+* PHP
+* JavaScript / TypeScript
+* APIs
+* AI & LLMs
+* Git / GitHub
+* Backend Development
+* Automation
 
 ## Projects
 
-| Project | Description |
-|----------------------|------------------------------------------------|
-| **TheBrewingStand** | Brewing system for PocketMine-MP |
-| **TheFriendAI** | AI integration for server interactions |
-| **TheLibrary** | Utility library |
-| **TheEnderchest** | EnderChest plugin with expanded slots |
-| **ItemFactory** | Custom item factory |
-| **ChatBot** | Chat bot |
+| Project           | Description                             |
+| ----------------- | --------------------------------------- |
+| **Rede Arkan**    | Minecraft server network and ecosystem  |
+| **TheEnderchest** | EnderChest system with expanded storage |
 
 ## Contact
 
-- GitHub: [github.com/grakenn](https://github.com/grakenn/)
-- Discord: `grakennn`
-- Servidor: [dsc.gg/redearkan](https://dsc.gg/redearkan/)
+* GitHub: [github.com/grakenn](https://github.com/grakenn/)
+* Discord: `grakennn`
+* Rede Arkan: [dsc.gg/redearkan](https://dsc.gg/redearkan/)
