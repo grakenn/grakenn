@@ -2,8 +2,6 @@
 
 # Hello I'm grakenn 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=grakenn&color=blue)
-
 ### Systems Developer • Minecraft • AI
 
 <p>
