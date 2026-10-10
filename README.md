@@ -6,8 +6,6 @@
 
 ### Systems Developer • Minecraft • AI
 
-<img src="https://cdn.pfps.gg/banners/3053-walking-chicken.gif" width="500">
-
 <p>
   Developer interested in <b>Minecraft servers</b>, <b>software development</b>
   and <b>Artificial Intelligence</b>.
